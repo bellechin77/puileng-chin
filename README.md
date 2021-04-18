@@ -24,9 +24,9 @@ Test Charter|Target|Resource|Information|Priority|Comment|Duration|Quality Attri
 9|Balance|2 testers|To evaluate if the Balance accurately shows the correct value taking into account: (1) all income and expense transactions, (2)account settings (Include or Not include in Balance), and (3) balance settings (budget mode, carry over)|High|Basic and key feature|60 mins|Accuracy
 10|Exception handling|2 testers|To evaluate if the app is capable of handling exceptions for invalid user input and/or user navigations|High|Basic feature|90 mins|Reliability
 11|Categories from default|1 tester|To evaluate if categories from defaults can be updated and removed, and no information from exisiting transactions is lost and corrupted|High|Basic feature|15 mins|Accuracy
-12|New categories|2 testers|To evaluate if income can be added, updated and removed, updated and removed|High|Basic feature|30 mins|Accuracy
+12|New categories|1 tester|To evaluate if new categories for income and expense can be added, updated and removed|Low|Pro feature|30 mins|Usability
 13|Recurring records|1 tester|To evaluate if recurring transaction can be created at regular intervals and reminders are set ahead of time |Medium|Pro feature|30 mins|Reliability, Maintainability
-14|Multi-currency function|1 tester|To evaluate if income can be added, updated and removed, updated and removed|High|Basic feature|30 mins|Accuracy
+14|Multi-currency function|1 tester|To evaluate if accounts with different currencies can be added, updated and removed, and if account balance is accurately included in the chart and transaction list|Medium|Pro feature|30 mins|Accuracy, Usability
 15|Synchronization|2 testers|To evaluate if the data can be safely synchronized using Google Drive or Dropbox account|Medium|Pro feature|30 mins|Usability, Performance
 16|Password protection|2 testers|To evaluate if access to the app and records can be password protected|High|Pro feature|30 mins|Security
 17|Built-in calculator|1 tester|To evaluate if the built-in calculator is functional|High|Basic feature|15 mins|Reliability
