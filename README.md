@@ -19,9 +19,9 @@ Test Charter|Target|Resource|Information|Priority|Comment|Duration|Quality Attri
 4|Account|1 tester|To evaluate if account i.e cash, payment card, paypal etc can be added, updated and removed|High|Basic feature|15 mins|Accuracy
 5|Income|2 testers|To evaluate if income can be added, updated and removed|High|Basic feature|30 mins|Accuracy
 6|Expense|2 testers|To evaluate if expense can be added, updated and removed|High|Basic and key feature|30 mins|Accuracy
-7|Transaction list|2 testers|To evaluate if the Transaction list accurately show all income and expense transactions|High|Basic and key feature|30 mins|Accuracy
+7|Transaction list|1 tester|To evaluate if the Transaction list accurately show all income and expense transactions|High|Basic and key feature|30 mins|Accuracy
 8|Chart|2 testers|To evaluate if Spending distribution is accurately displayed on the chart based on the expense transactions|High|Basic and key feature|30 mins|Accuracy
-9|Balance|2 testers|To evaluate if the Balance accurately shows the correct value taking into account: (1) all income and expense transactions, (2)account settings (Include or Not include in Balance), and (3) balance settings (budget mode, carry over)|High|Basic and key feature|60 mins|Accuracy
+9|Balance|2 testers|To evaluate if the Balance accurately shows the correct value taking into account: (1) all income and expense transactions, (2) account settings, and (3) balance settings|High|Basic and key feature|60 mins|Accuracy
 10|Exception handling|2 testers|To evaluate if the app is capable of handling exceptions for invalid user input and/or user navigations|High|Basic feature|90 mins|Reliability
 11|Categories from default|1 tester|To evaluate if categories from defaults can be updated and removed, and no information from exisiting transactions is lost and corrupted|High|Basic feature|15 mins|Accuracy
 12|New categories|1 tester|To evaluate if new categories for income and expense can be added, updated and removed|Low|Pro feature|30 mins|Usability
