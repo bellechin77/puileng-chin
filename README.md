@@ -61,9 +61,12 @@ Monefy for iOS|1.3.18
    - Accounts
    - Expenses
    - Income
+   - Transaction list
+   - Spending distribution chart
+   - Balance
 2. When testing the Basic features, black-box testing is used following the logical flow of a typical end user.
 3. Exhaustive negative testing is subsequently done with variations of invalid data input and user navigations to discover if the app is capable of handling exceptions.
 4. Test scenarios used in the black-box testing are documented and the test observations/results are logged. 
 5. Test scenarios and test data used in the negative tetsting are also documented, and system behaviors are logged.
 6. The information gathered from the Exploratory tests on Basic features will be used for the test design in subsequent tests.
-7. Exploratory test on Pro features is carried out after the Basic features are tested satisfactorily.
+7. Exploratory tests on Pro features are carried out after the Basic features are tested satisfactorily.
