@@ -53,3 +53,17 @@ Monefy for iOS|1.3.18
 |16|Password protection|Pro feature not explored|||
 |17|Built-in calculator|Calculator does not return correct result for certain formula i.e. 9999999999.99*2, which returned a value 0|Reliability|Review the capacility of the fields used in calculation, and identify root cause of the calculation error|
 |18|Dark theme|Pro feature not explored|||
+
+
+### Test Approach
+1. The Exploratory test starts with Basic features of the app following the priority assigned to each charter.
+   - Settings (Language, Currency, Balance)
+   - Accounts
+   - Expenses
+   - Income
+2. When testing the Basic features, black-box testing is used following the logical flow of a typical end user.
+3. Exhaustive negative testing is subsequently done with variations of invalid data input and user navigations to discover if the app is capable of handling exceptions.
+4. Test scenarios used in the black-box testing are documented and the test observations/results are logged. 
+5. Test scenarios and test data used in the negative tetsting are also documented, and system behaviors are logged.
+6. The information gathered from the Exploratory tests on Basic features will be used for the test design in subsequent tests.
+7. Exploratory test on Pro features is carried out after the Basic features are tested satisfactorily.
