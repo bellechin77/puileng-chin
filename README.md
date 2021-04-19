@@ -70,3 +70,9 @@ Monefy for iOS|1.3.18
 5. Test scenarios and test data used in the negative tetsting are also documented, and system behaviors are logged.
 6. The information gathered from the Exploratory tests on Basic features will be used for the test design in subsequent tests.
 7. Exploratory tests on Pro features are carried out after the Basic features are tested satisfactorily.
+   - Password protection
+   - Synchronization
+   - Recurring records
+   - Multi-currency
+   - New categories
+   - Dark theme
