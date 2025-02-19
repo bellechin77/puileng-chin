@@ -17,7 +17,7 @@ public class SeleniumTest {
 
         try {
             // Step 1: Navigate to the login page
-            driver.get("https://example.com/login");  // Replace with your actual URL
+            driver.get("https://example.com/login");  // Test page URL
 
             // Step 2: Find the username field and enter a username
             WebElement usernameField = driver.findElement(By.id("username"));
